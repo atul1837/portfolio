@@ -2,10 +2,10 @@
   "name": "v2",
   "description": "Personal Website V2",
   "version": "1.0.0",
-  "author": "Chandrika Deb <chandrikadeb7@gmail.com>",
+  "author": "Atul Thakur <atul.thakur1837@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chandrikadeb7/chandrikadeb7.github.io"
+    "url": "https://github.com/atul1837/portfolio/"
   },
   "keywords": [
     "gatsby"
@@ -18,7 +18,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public -b master"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "husky": {
     "hooks": {

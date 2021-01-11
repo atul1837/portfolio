@@ -7,6 +7,7 @@ module.exports = {
     description: config.siteDescription,
     image: '/images/og.png',
   },
+  pathPrefix: '/portfolio',
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
@@ -17,8 +18,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'ChandrikaDeb',
-        short_name: 'ChandrikaDeb',
+        name: 'atulThakur',
+        short_name: 'atulThakur',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

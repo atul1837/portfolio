@@ -1,39 +1,39 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Engineer',
+  siteTitle: 'Atul Thakur',
   siteDescription:
-    'Chandrika Deb is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Atul Thakur is currently a sophomore at UIET, Panjab University pursuing my bachelors in Information Technology who share a keen interest in Web development and Competitive programming.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software engineer, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Atul Thakur, Atul, Thakur, atul1837, software engineer, web developer, javascript, hikup, chandigarh, panjab university, uiet, punjab, ludhiana',
+  siteUrl: 'https://atul1837.github.io/portfolio/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  // googleAnalyticsID: 'UA-45666519-2',
+  // googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  name: 'Atul Thakur',
+  location: 'Chandigarh, India',
+  email: 'atul.thakur1837@gmail.com',
+  github: 'https://github.com/atul1837',
+  // twitterHandle: '@chandrikadeb7',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/atul1837',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/atulthakur1/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/chandrikadeb7',
+    // },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/___cd.___/',
+      url: 'https://www.instagram.com/atul.thakur1837/',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
-    },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/chandrikadeb7',
+    // },
   ],
 
   navLinks: [
