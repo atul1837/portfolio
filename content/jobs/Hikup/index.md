@@ -7,6 +7,6 @@ range: 'February 2020 - Present'
 url: 'https://www.hikup.co/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Worked on developing the Front-end and backend of Web Platform using MERN stack for Hikup.
+- Platform to empower digital creators. Also used Graphql api for smooth communication between
+  frontend and backend.
