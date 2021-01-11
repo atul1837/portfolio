@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://atul1837.github.io/sitemap.xml
+Host: https://atul1837.github.io
